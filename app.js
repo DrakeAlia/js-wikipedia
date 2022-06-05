@@ -67,4 +67,4 @@ const renderResults = (list) => {
     </div>`
 }
 
-console.log('wiki starter');
+console.log('Welcome to my version of Wikipedia');
