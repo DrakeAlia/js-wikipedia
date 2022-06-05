@@ -21,24 +21,24 @@
 
 #### Initial Setup
 
-- select form, input, results
-- listen for submit events
-- if empty value, display error
-- create fetchPages()
-- pass valid input value into the fetchPages()
+- select form, input, results (X)
+- listen for submit events (X)
+- if empty value, display error (X)
+- create fetchPages() (X)
+- pass valid input value into the fetchPages() (X)
 
 #### Fetch Pages
 
-- display loading while fetching
-- construct dynamic url
-- display if error
-- display error no items
-- create renderResults()
-- pass valid results into renderResults()
+- display loading while fetching (X)
+- construct dynamic url (X)
+- display if error (X)
+- display error no items (X)
+- create renderResults() (X)
+- pass valid results into renderResults() (X)
 
 #### Render Results
 
-- iterate over the list
-- pull out title, snippet, pageid
-- setup a card
-- set results with div.articles and list inside
+- iterate over the list (X)
+- pull out title, snippet, pageid (X)
+- setup a card (X)
+- set results with div.articles and list inside (X)
